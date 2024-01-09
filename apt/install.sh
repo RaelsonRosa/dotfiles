@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-echo "${BLUE}Welcome! Let's start setting up your system. It could take more than 10 minutes, be patient${C_OFF}"
+echo "Welcome! Let's start setting up your system. It could take more than 10 minutes, be patient"
 
 # Test to see if user is running with root privileges.
 if [[ "${UID}" -ne 0 ]]

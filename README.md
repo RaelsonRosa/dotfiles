@@ -16,5 +16,9 @@ The contents of `dotfiles` (except the `install.sh` script) gets copied to `~/.`
 
 ## config
 
-`config` is copied to `~/.config`
+`config` is global settings 
 
+
+## Inspirations
+
+https://github.com/adamlouis/dotfiles/blob/main/apt/defaults.txt
